@@ -1,0 +1,14 @@
+{
+  "name": "github-activity",
+  "version": "1.0.0",
+  "description": "CLI to Fetch GitHub User Activity",
+  "main": "github-activity.js",
+  "bin": {
+    "github-activity": "./github-activity.js"
+  },
+  "scripts": {
+    "start": "node github-activity.js"
+  },
+  "author": "Edet Emmanuel Asuquo",
+  "license": "ISC"
+}
